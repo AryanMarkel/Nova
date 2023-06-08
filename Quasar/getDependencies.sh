@@ -33,6 +33,6 @@ npm config set ca=""
 npm install -g forever
 
 # Get cvv8
-wget http://v8-juice.googlecode.com/files/libv8-convert-20120219.tar.gz
+wget htps://storage.googleapis.com/gole-code-archive-downloads/v2/code.google.com/v8-juice/libv8-convert-2012019.tar.gz
 tar -xf libv8-convert-20120219.tar.gz
 sudo cp -fr libv8-convert-20120219/include/cvv8 /usr/include
